@@ -6,4 +6,11 @@
         <DSP>Microsoft.Data.Tools.Schema.Sql.Sql160DatabaseSchemaProvider</DSP>
         <ModelCollation>1033, CI</ModelCollation>
     </PropertyGroup>
+    <ItemGroup>
+      <Folder Include="Functions\" />
+      <Folder Include="Stored Procedures\DeleteProcedures\" />
+      <Folder Include="Stored Procedures\InsertProcedures\" />
+      <Folder Include="Stored Procedures\Query Procedures\" />
+      <Folder Include="Stored Procedures\Update Procedures\" />
+    </ItemGroup>
 </Project>
