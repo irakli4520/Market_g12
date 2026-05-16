@@ -2,13 +2,9 @@
 bin/
 obj/
 
-# Visual Studio
-.vs/
-*.user
-*.suo
-
 # Rider
 .idea/
+*.iml
 
 # VS Code
 .vscode/
@@ -24,6 +20,23 @@ packages/
 *.cache
 *.g.cs
 *.GeneratedMSBuildEditorConfig.editorconfig
+
+# User files
+*.user
+*.suo
+*.userprefs
+
+# Test results
+TestResults/
+coverage/
+
+# Temp
+tmp/
+temp/
+
+# Environment
+.env
+.env.*
 
 # OS files
 .DS_Store
