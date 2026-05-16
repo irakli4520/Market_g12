@@ -1,4 +1,4 @@
-﻿namespace Market.Repositories;
+namespace Market.Repositories;
 
 public class Class1
 {

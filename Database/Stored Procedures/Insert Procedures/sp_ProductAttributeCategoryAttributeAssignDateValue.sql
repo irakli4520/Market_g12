@@ -1,4 +1,4 @@
-create procedure sp_ProductAttributeCategoryAttributeAssignNumericValue
+create procedure sp_ProductAttributeCategoryAttributeAssignDateValue
     @CategoryAttributeId int,
     @ProductId int,
     @DateValue datetime,
