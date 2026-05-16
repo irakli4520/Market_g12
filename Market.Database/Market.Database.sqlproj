@@ -5,6 +5,7 @@
         <Name>DatabaseProject1</Name>
         <DSP>Microsoft.Data.Tools.Schema.Sql.Sql160DatabaseSchemaProvider</DSP>
         <ModelCollation>1033, CI</ModelCollation>
+        <RootNamespace>Database</RootNamespace>
     </PropertyGroup>
     <ItemGroup>
       <Folder Include="Stored Procedures\Query Procedures\" />

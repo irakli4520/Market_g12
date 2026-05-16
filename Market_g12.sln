@@ -8,7 +8,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market.Services", "Market.S
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{13E06AC8-6CF3-4559-99B6-123A38BE2592}"
 EndProject
-Project("{42EA0DBD-9CF1-443E-919E-BE9C484E4577}") = "Database", "Database\Database.sqlproj", "{38973FA3-3B96-4D79-B36A-5C8612A0EA3E}"
+Project("{42EA0DBD-9CF1-443E-919E-BE9C484E4577}") = "Market.Database", "Market.Database\Market.Database.sqlproj", "{38973FA3-3B96-4D79-B36A-5C8612A0EA3E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{172F733F-54F6-440C-9960-B55F66D0792C}"
 EndProject
