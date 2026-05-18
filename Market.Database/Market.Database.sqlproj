@@ -7,7 +7,4 @@
         <ModelCollation>1033, CI</ModelCollation>
         <RootNamespace>Database</RootNamespace>
     </PropertyGroup>
-    <ItemGroup>
-      <Folder Include="Stored Procedures\Query Procedures\" />
-    </ItemGroup>
 </Project>
